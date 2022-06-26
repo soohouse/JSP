@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;lib&apos;&#x0A;- Original project: &apos;JdbcBasic&apos;&#x0A;- Destination element: &apos;lib&apos;&#x0A;- Original elements:&#x0A;     oraclepki.jar&#x0A;     osdt_cert.jar&#x0A;     ojdbc8.jar&#x0A;     osdt_core.jar" description="Copy files" element1="webapp/WEB-INF/lib/oraclepki.jar" element2="webapp/WEB-INF/lib/osdt_cert.jar" element3="webapp/WEB-INF/lib/ojdbc8.jar" element4="webapp/WEB-INF/lib/osdt_core.jar" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1652685978242" target="/MyWeb/WebContent/WEB-INF/lib" units="0" version="1.0"/>
+</session>

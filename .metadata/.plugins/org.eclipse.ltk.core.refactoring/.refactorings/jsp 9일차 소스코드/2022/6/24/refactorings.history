@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;servlet&apos;&#x0A;- Original project: &apos;jsp 9일차 소스코드&apos;&#x0A;- Destination element: &apos;servlet&apos;&#x0A;- Original elements:&#x0A;     info.jsp&#x0A;     front_con.jsp&#x0A;     test.jsp" description="Copy files" element1="MyWeb/WebContent/servlet/info.jsp" element2="MyWeb/WebContent/servlet/front_con.jsp" element3="MyWeb/WebContent/servlet/test.jsp" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1654568957850" target="/WebTemp/WebContent/servlet" units="0" version="1.0"/>
+</session>

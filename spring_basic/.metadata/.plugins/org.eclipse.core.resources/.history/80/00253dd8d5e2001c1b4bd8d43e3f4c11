@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans  
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="db1" class="basic.ex02.DataBaseInfo">
+
+</bean>
+
+<bean id="dao" class="basic.ex02.MemberDAO">
+
+</bean>
+
+</beans>

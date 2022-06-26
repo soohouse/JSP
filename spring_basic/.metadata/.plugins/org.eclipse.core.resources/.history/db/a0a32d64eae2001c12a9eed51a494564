@@ -1,0 +1,11 @@
+package basic.quiz;
+
+public class Monitor {
+	
+	private Monitor monitor;
+	
+	public void info() {
+		System.out.println("LG 모니터!");
+	}
+
+}

@@ -1,0 +1,8 @@
+package kr.co.pr.board.controller;
+
+import javax.servlet.http.HttpServlet;
+
+public class BoardController extends HttpServlet {
+
+
+}

@@ -1,0 +1,13 @@
+package basic.quiz;
+
+public class Mouse {
+	
+	private Mouse mouse;
+	
+	public void info() {
+		System.out.println("로지텍 마우스!");
+	}
+	
+	
+
+}

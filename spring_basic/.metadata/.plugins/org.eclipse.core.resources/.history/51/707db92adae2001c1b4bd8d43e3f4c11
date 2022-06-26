@@ -1,0 +1,6 @@
+package basic.ex03;
+
+public class MainClass {
+
+	public static void main([])
+}

@@ -1,0 +1,41 @@
+package basic.ex04;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class Printer {
+	
+	/*
+	 # @Autowired
+	 - 객체를 자동 주입할 때 사용하는 아노테이션입니다.
+	 - 스캔 명령을 통해 객체를 찾아 주입하는데, 타입 이름으로 검사합니다. 
+	 */
+	
+	@Autowired
+	private Paper paper;
+	
+	/*
+	@Autowired
+	public Printer(Paper paper) {
+		this.paper = paper;
+	}
+	*/
+	
+	/*
+	@Autowired
+	public void setPaper(Paper paper) {
+		this.paper = paper;
+	}
+	*/
+	
+	public void showPaperInfo() {
+		for(String info : paper.data) {
+			System.out.println(info);
+	
+		}
+	}
+	
+	
+
+
+
+}

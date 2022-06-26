@@ -1,0 +1,11 @@
+package basic.quiz;
+
+public class Keyboard {
+	
+	private Keyboard keyboard;
+	
+	public void info() {
+		System.out.println("삼성 키보드!");
+	}
+
+}

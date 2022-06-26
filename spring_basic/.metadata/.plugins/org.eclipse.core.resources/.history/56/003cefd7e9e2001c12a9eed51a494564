@@ -1,0 +1,16 @@
+package basic.quiz;
+
+public class Computer {
+
+	private Keyboard keyboard;
+	private Mouse mouse;
+	private Monitor monitor;
+	
+	public void computerInfo() {
+		System.out.println("*** 컴퓨터의 정보 ***");
+		keyboard.info();
+		mouse.info();
+		monitor.info();
+		
+	}
+}

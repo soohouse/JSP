@@ -1,0 +1,23 @@
+package basic.ex03;
+
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		GenericXmlApplicationContext ct =
+				new GenericXmlApplicationContext("classpath:prototype-config.xml");
+		
+		Person hong = ct.getBean("person", Person.class);
+		
+		Person kim = ct.getBean("person", Person.class);
+		kim.setAge(30);
+		kim.setName("김철수");
+		
+		System.out.println("hong의 이름: " + hong.getName());
+		System.out.println("hong의 나이: " + hong.getAge());
+		System.out.println("kim의 나이: " + kim.getAge());
+		System.out.println("kim의 나이: " + kim.getAge());
+	}
+}

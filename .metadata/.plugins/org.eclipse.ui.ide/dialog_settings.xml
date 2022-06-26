@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/dood/Desktop/java_web_JS/JSP과제/웹템플릿연습폼"/>
+			<item value="/Users/dood/Desktop/java_web_JS/JSP과제/웹템플릿연습폼_시험(국기반배포)"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 7일차 소스코드(MyWeb)"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 8일차 소스코드"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 7일차 소스코드(jdbcBasic)"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 11일차 소스코드"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 10일차 소스코드"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 9일차 소스코드"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 5일차 소스코드"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 6일차 소스코드"/>
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 4일차 소스코드"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="540"/>
+		<item key="DIALOG_HEIGHT" value="367"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 9일차 소스코드"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/dood/Desktop/java_web_JS/jsp/jsp 9일차 소스코드.zip"/>
+		</list>
+	</section>
+</section>

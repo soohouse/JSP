@@ -1,0 +1,21 @@
+package basic.ex02;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+		
+		/*
+		DataBaseInfo dbInfo = new DataBaseInfo();
+		dbInfo.setUrl("jdbc:oracle:thin:@localhost:1521:xe");
+		dbInfo.setUid("spring");
+		
+		*/
+		
+		GenericXmlApplicationContext ct =
+				new GenericXmlApplicationContext("classpath:db-config.xml");
+		
+		MemberDAO dao = ct.getBean("dao", MemberDAO.class);
+		dao.showDBInfo();
+	}
+
+}

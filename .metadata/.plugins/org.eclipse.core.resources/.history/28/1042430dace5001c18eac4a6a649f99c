@@ -1,0 +1,5 @@
+package kr.co.pr.board.controller;
+
+public @interface WebServlete {
+
+}

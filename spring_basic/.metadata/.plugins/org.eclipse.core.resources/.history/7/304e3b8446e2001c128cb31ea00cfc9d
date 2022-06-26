@@ -1,0 +1,13 @@
+package basic.ex01;
+
+public class Hotel {
+	
+	 public Hotel() {
+		 System.out.println("호텔이 생성됨!");
+	 }
+	 
+	 public void reserveRestaurant() {
+		 
+	 }
+
+}

@@ -1,0 +1,14 @@
+package basic.ex03;
+
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		GenericXmlApplicationContext ct =
+				new GenericXmlApplicationContext("classpath:prototype-config.xml");
+		
+		Person hong = ct.getBean("person", Person.class);
+	}
+}

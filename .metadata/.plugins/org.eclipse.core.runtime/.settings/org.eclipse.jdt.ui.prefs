@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="javax.naming.NamingException"/><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="javax.naming.NamingException"/><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.sql.SQLException"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="kr.co.jsp.score.model.scoreVO"><rhs name\="kr.co.jsp.score.model.scoreVO"/></lhs><lhs name\="kr.co.jsp.board.model.BoardVO"><rhs name\="kr.co.jsp.board.model.BoardVO"/></lhs><lhs name\="javax.naming.NamingException"><rhs name\="javax.naming.NamingException"/></lhs><lhs name\="javax.naming.Context"><rhs name\="javax.naming.InitialContext"/></lhs><lhs name\="kr.co.jsp.user.model.IUserDAO"><rhs name\="kr.co.jsp.user.model.UserDAO"/></lhs><lhs name\="kr.co.jsp.user.model.UserDAO"><rhs name\="kr.co.jsp.user.model.UserDAO"/></lhs><lhs name\="kr.co.jsp.user.model.UserVO"><rhs name\="kr.co.jsp.user.model.UserVO"/></lhs><lhs name\="kr.co.jsp.board.model.IBoardDAO"><rhs name\="kr.co.jsp.board.model.BoardDAO"/></lhs><lhs name\="kr.co.jsp.board.model.BoardDAO"><rhs name\="kr.co.jsp.board.model.BoardDAO"/></lhs><lhs name\="javax.naming.InitialContext"><rhs name\="javax.naming.InitialContext"/></lhs><lhs name\="kr.co.jsp.board.service.IBoardService"><rhs name\="kr.co.jsp.board.service.GetListService"/><rhs name\="kr.co.jsp.board.service.ContentService"/><rhs name\="kr.co.jsp.board.service.ModifyService"/></lhs><lhs name\="kr.co.jsp.user.service.IUserService"><rhs name\="kr.co.jsp.user.service.JoinService"/></lhs></history>
+content_assist_number_of_computers=16
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=1
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

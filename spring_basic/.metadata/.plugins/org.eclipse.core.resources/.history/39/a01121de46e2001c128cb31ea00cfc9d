@@ -1,0 +1,12 @@
+package basic.ex01;
+
+public class Restaurant {
+
+	public Restaurant() {
+		System.out.println("레스토랑이 생성됨!");
+	}
+	
+	public void orderDinner() {
+		System.out.println("저녁식사!");
+	}
+}

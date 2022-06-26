@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;kr.co.jsp.servlet.basic&apos; to &apos;MyWeb/src/main/java&apos;&#x0A;- Original project: &apos;jsp 9일차 소스코드&apos;&#x0A;- Destination element: &apos;MyWeb/src/main/java&apos;&#x0A;- Original element: &apos;jsp 9일차 소스코드/MyWeb/src/kr.co.jsp.servlet.basic&apos;" description="Copy package" destination="=MyWeb/src\/main\/java" element1="/MyWeb\/src&lt;kr.co.jsp.servlet.basic" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1652879494512" version="1.0"/>
+</session>
